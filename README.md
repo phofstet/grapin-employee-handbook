@@ -2,7 +2,7 @@
 This is GRAPIN’s handbook.
 
 ## Sections
-* [Expenses](https://github.com/grapin/handbook/blob/master/expenses.md)
+* [Expenses](expenses.md)
 * [GRAPIN Stack](https://github.com/grapin/handbook/blob/master/grapin-stack.md)
 * [Holidays](https://github.com/grapin/handbook/blob/master/holidays.md)
 * [How We Work](https://github.com/grapin/handbook/blob/master/how-we-work.md)
