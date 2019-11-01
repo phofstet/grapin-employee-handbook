@@ -4,6 +4,7 @@ This is GRAPIN’s handbook.
 ## Sections
 * [Expenses](expenses.md)
 * [GRAPIN Stack](grapin-stack.md)
+* [GRAPAY Stack](grapay-stack.md)
 * [Holidays](https://github.com/grapin/handbook/blob/master/holidays.md)
 * [How We Work](https://github.com/grapin/handbook/blob/master/how-we-work.md)
 * [Organization Chart](https://github.com/grapin/handbook/blob/master/organization-chart.md)
