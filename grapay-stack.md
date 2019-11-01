@@ -1,4 +1,4 @@
-# GRAPIAY Stack
+# GRAPAY Stack
 
 [Figure 1. GRAPAY Stack]()
 
