@@ -19,6 +19,6 @@ By default, overtime is compensated with extra holidays. In fact, *GRAPIN’s Pr
 For any concern about the compensation method, please get in touch with Hans Jörg.
 
 # Absences
-Absences due to illnes, militar or civil services, or any other personal matter will be communicated to either to Hans Jörg or to your project leader.
+Absences due to illnes, militar or civil services, or any other personal matter will be communicated either to Hans Jörg, or to your project leader.
 
 After checking the supporting documents, Karin or Sonja will introduce the *absence* dates into *GRAPIN’s Project Management Tool*.
