@@ -14,7 +14,9 @@ Longer holiday periods (i.e. Christmas or summer holidays) should be communicate
 Please think of discussing your *longer holiday periods* with your project leader (and the rest of the team) before sending it to Karin (or Sonja)! 
 
 ### Overtime
-By default, overtime is compensated with extra holidays. In fact, *GRAPIN’s Project Management Tool* automatically _accrues_ your extra time the first day of the month. For any concern about the compensation method, please get in touch with Hans Jörg.
+By default, overtime is compensated with extra holidays. In fact, *GRAPIN’s Project Management Tool* automatically _accrues_ your extra time the very first day of the month. 
+
+For any concern about the compensation method, please get in touch with Hans Jörg.
 
 # Absences
 Absences due to illnes, militar or civil services, or any other personal matter will be communicated to either to Hans Jörg or to your project leader.
