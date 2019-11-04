@@ -80,6 +80,6 @@ Basecamp is built to implement [Shape Up](https://basecamp.com/shapeup/4.0-appen
 
 The following depictures the process:
 
-![](static/shape-up-summary.png)
+![](static/shape-up-summary.jpg)
 
 *Shape Up Summary*
