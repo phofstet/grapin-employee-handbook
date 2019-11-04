@@ -6,7 +6,7 @@ This is GRAPIN’s handbook.
 * [GRAPIN Stack](grapin-stack.md)
 * [GRAPAY Stack](grapay-stack.md)
 * [Holidays and Absences](holidays-and-absences.md)
-* [How We Work](https://github.com/grapin/handbook/blob/master/how-we-work.md)
+* [How We Work](how-we-work.md)
 * [Organization Chart](https://github.com/grapin/handbook/blob/master/organization-chart.md)
 * [Projects](https://github.com/grapin/handbook/blob/master/projects.md)
 * [Teams](https://github.com/grapin/handbook/blob/master/teams.md)
