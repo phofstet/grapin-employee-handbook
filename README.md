@@ -3,8 +3,6 @@ This is GRAPIN’s handbook.
 
 ## Sections
 * [Expenses](expenses.md)
-* [GRAPIN Stack](grapin-stack.md)
-* [GRAPAY Stack](grapay-stack.md)
 * [Holidays and Absences](holidays-and-absences.md)
 * [How We Work](how-we-work.md)
 * [Organization Chart](https://github.com/grapin/handbook/blob/master/organization-chart.md)
