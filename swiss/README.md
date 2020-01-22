@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
 <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
 <p align="right">
-English | <a href="/swiss/README.md">Swiss</a>
+English | <a href="/Xilinx/Vitis-Tutorials/blob/master/docs-jp/README.md">Swiss</a>
 </p>
 
 <table width="100%">
@@ -12,9 +12,9 @@ English | <a href="/swiss/README.md">Swiss</a>
           <img src="https://github.com/grapin/handbook/blob/master/png/grapin.png" width="45%" style="max-width:100%;">
         </a>
         <h1>
-          Employee’s Handbook
+          Mitarbeiterhandbuchli
         </h1>
-        <a href="https://boring-secretary.surge.sh">Visit our web site</a>
+        <a href="https://boring-secretary.surge.sh">Besuche unsere Webseite</a>
       </td>
     </tr>
   </tbody>
