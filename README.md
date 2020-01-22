@@ -20,7 +20,11 @@ English | <a href="/swiss/README.md">Swiss</a>
   </tbody>
  </table>
 
-hghghghghgh
+With this simple handbook we pretend to clarify not only to our employees—but also partners and investors—who we are as a company (what’s our culture, process, and history), what do we stand for?, and how should we work.
+
+Most of our practices are highly biased by [Basecamp](https://basecamp.com)—the tool we use for project management and company communications—. Before continuing, we would highly recommend to read this [guide](https://basecamp.com/guides/how-we-communicate) which really inspired us.
+
+Finally, if you are reading this *employee’s handbook* you have probably started working or collaborating with us: thanks for that!
 
 ## Sections
 * [Expenses](expenses.md)
