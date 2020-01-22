@@ -19,3 +19,4 @@
 | Patrick Hofstetter (PH) | CTOO, Project Leader | Hans Jörg | Hans Jörg or Javier |
 | Roger Fehr (RF) | Head of Sales | Hans Jörg | Attila |
 | Sonja Herzog (SHE) | Head of Backoffice | Hans Jörg | Karin |
+| Walter Bless (WB) | Head of Consulting | Hans Jörg | - |
