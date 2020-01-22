@@ -1,3 +1,7 @@
+<p align="right">
+<a href="README.md">Home</a> | <a href="expenses.md">Back</a> | <a href="how-we-work.md">Next</a>
+</p>
+
 # Holidays
 
 GRAPIN’s employees have 25 days of holidays per year.

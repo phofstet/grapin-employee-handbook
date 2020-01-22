@@ -1,3 +1,7 @@
+<p align="right">
+<a href="README.md">Home</a> | <a href="holidays-and-absences.md">Next</a>
+</p>
+
 # Expenses
 
 GRAPIN will pay project related expenses when properly justified. To do this, you should fill out [this form (private link)](https://storage.grapin.ch/index.php/f/222253), print it out, and give it to Sonja—together with the supporting documents for each expense.
