@@ -4,4 +4,4 @@ GRAPIN will pay project related expenses when properly justified. To do this, yo
 
 When everything works out, you will receive the aproved amount within a second transfer along with your next salary payment. 
 
-In any other case, Karin or Sonja will contact you by email.
+In any other case, Sonja will contact you by email.
