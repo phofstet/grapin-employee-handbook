@@ -1,6 +1,6 @@
 # Organizational Chart
 
-![Figure 1. Organizational Chart](https://storage.grapin.ch/s/Ba7dpx9jo4pQnwj)
+![Figure 1. Organizational Chart](/png/190912_GRAPIN_org_chart_v0.07.png)
 
 *Figure 1. Organization Chart*
 
