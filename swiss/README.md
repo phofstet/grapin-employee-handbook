@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
 <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
 <p align="right">
-English | <a href="/Xilinx/Vitis-Tutorials/blob/master/docs-jp/README.md">Swiss</a>
+<a href="../README.md">English</a> | Swiss
 </p>
 
 <table width="100%">
@@ -20,15 +20,5 @@ English | <a href="/Xilinx/Vitis-Tutorials/blob/master/docs-jp/README.md">Swiss<
   </tbody>
  </table>
 
-# GRAPIN’s Employee Handbook
-This is GRAPIN’s handbook.
-
 ## Sections
-* [Expenses](expenses.md)
-* [Holidays and Absences (private link)](https://storage.grapin.ch/index.php/f/224530)
-* [How We Work](how-we-work.md)
-* [Organization Chart](https://github.com/grapin/handbook/blob/master/organization-chart.md)
-* [Projects](https://github.com/grapin/handbook/blob/master/projects.md)
-* [Teams](https://github.com/grapin/handbook/blob/master/teams.md)
-* [Tools](https://github.com/grapin/handbook/blob/master/tools.md)
-* [Who Does What?](https://github.com/grapin/handbook/blob/master/who-does-what.md)
+Coming soon!
