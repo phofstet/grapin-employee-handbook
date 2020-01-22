@@ -30,7 +30,7 @@ Finally, if you are reading this *employee’s handbook* you have probably start
 * [Expenses](expenses.md)
 * [Holidays and Absences](holidays-and-absences.md)
 * [How We Work](how-we-work.md)
-* [Organization Chart](https://github.com/grapin/handbook/blob/master/organization-chart.md)
+* [Organizational Chart](https://github.com/grapin/handbook/blob/master/organizational-chart.md)
 * [Projects](https://github.com/grapin/handbook/blob/master/projects.md)
 * [Teams](https://github.com/grapin/handbook/blob/master/teams.md)
 * [Tools](https://github.com/grapin/handbook/blob/master/tools.md)
