@@ -15,8 +15,6 @@ At the same time, the person who aproves and signes the form will communicate So
 ### Project Planning Support
 Longer holiday periods (i.e. Christmas or summer holidays) should be communicated before the end of January. This way you'll support the good usage of *GRAPIN’s Project Management Tool*, thus a better oversight of your availability and project planning.
 
-Please think of discussing your *longer holiday periods* with your project leader (and the rest of the team) before sending it to Karin (or Sonja)! 
-
 ### Overtime
 By default, overtime can only be compensated with free days. In fact, *GRAPIN’s Project Management Tool* automatically _accrues_ your extra time the very first day of the month, but you should never have more than 25 days of holidays approved. 
 
