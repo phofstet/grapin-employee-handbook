@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
 <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
 <p align="right">
-<a href="../README.md">English</a> | Swiss
+<a href="../README.md">English</a> | Schweizerdeutsch
 </p>
 
 <table width="100%">
