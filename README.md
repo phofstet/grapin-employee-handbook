@@ -20,12 +20,11 @@ English | <a href="/swiss/README.md">Swiss</a>
   </tbody>
  </table>
 
-# GRAPIN’s Employee Handbook
-This is GRAPIN’s handbook.
+hghghghghgh
 
 ## Sections
 * [Expenses](expenses.md)
-* [Holidays and Absences (private link)](https://storage.grapin.ch/index.php/f/224530)
+* [Holidays and Absences](holidays-and-absences.md)
 * [How We Work](how-we-work.md)
 * [Organization Chart](https://github.com/grapin/handbook/blob/master/organization-chart.md)
 * [Projects](https://github.com/grapin/handbook/blob/master/projects.md)
