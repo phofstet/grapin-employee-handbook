@@ -4,9 +4,9 @@
 
 
 # How We Work
-*First of all, we would like to point that this section is inspired by its homonymous version of the [Basecamp’s handbook (last seen 22.02.2020)](https://github.com/basecamp/handbook/blob/master/how-we-work.md).* 
+*First of all, we would like to point that this section is inspired by its homonymous counterpart of the [Basecamp’s handbook (last seen 22.02.2020)](https://github.com/basecamp/handbook/blob/master/how-we-work.md).* 
 
-Said that, at GRAPIN we think about how to break big projects into smaller pieces, such that they can be done in a *resonable*"* amount of time. In the context of Basecamp and [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup), this smaller pieces are called cycles.
+Said that, at GRAPIN we also think about how to break big projects into smaller pieces, such that they can be done in a *resonable* amount of time. In the context of Basecamp and [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup), this smaller pieces are called cycles.
 
 ## Cycles
 In our case, the duration of the cycle will depend on the nature of each project, but it should cover an amount of work that can be completed  within 4- and 8-weeks.
