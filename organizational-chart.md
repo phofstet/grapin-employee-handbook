@@ -1,3 +1,7 @@
+<p align="right">
+<a href="README.md">Home</a> | <a href="README.md">Back</a> | <a href="/schweizerdeutsch/README.md">Next</a>
+</p>
+
 # Organizational Chart
 
 ![Figure 1. Organizational Chart](/png/190912_GRAPIN_org_chart_v0.07.png)
