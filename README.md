@@ -17,7 +17,7 @@ English | <a href="/Xilinx/Vitis-Tutorials/blob/master/docs-jp/README.md">日本
     <tr width="100%">
       <td align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2dbf45c3b9c0ed0cf3d89bfc827eb87994bd0be6/68747470733a2f2f7777772e78696c696e782e636f6d2f636f6e74656e742f64616d2f78696c696e782f696d67732f70726573732f6d656469612d6b6974732f636f72706f726174652f78696c696e782d6c6f676f2e706e67">
-          <img src="https://camo.githubusercontent.com/2dbf45c3b9c0ed0cf3d89bfc827eb87994bd0be6/68747470733a2f2f7777772e78696c696e782e636f6d2f636f6e74656e742f64616d2f78696c696e782f696d67732f70726573732f6d656469612d6b6974732f636f72706f726174652f78696c696e782d6c6f676f2e706e67" width="30%" data-canonical-src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" style="max-width:100%;">
+          <img src="https://camo.githubusercontent.com/2dbf45c3b9c0ed0cf3d89bfc827eb87994bd0be6/68747470733a2f2f7777772e78696c696e782e636f6d2f636f6e74656e742f64616d2f78696c696e782f696d67732f70726573732f6d656469612d6b6974732f636f72706f726174652f78696c696e782d6c6f676f2e706e67" width="30%" style="max-width:100%;">
         </a>
         <h1>
           GRAPIN’s Employee Handbook
