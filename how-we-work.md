@@ -44,14 +44,18 @@ It is important to have realistic expectations about what will happen after you 
 
 * Everyone involved with the product development will read your pitch, and that is a win right there: even if the full pitch does not make it, it can impact other product decisions,
 
-* Occasionally few pitches would appear directly for the next cycle
+* Occasionally few pitches would appear directly for the next cycle, but
 
-[...] Before the start of every cycle, the team lead kickoff will list all the pitches that have been selected to be worked on.
+* It's more likely that your pitch will sit for a while first.
+
+Don't be discouraged by the later case! There are always more ideas than time, and we can only get a few things done each cycle.
+
+There will be a designated team per project evaluating pitches for inclusion in the next cycle. Before the start of every cycle, the team lead kickoff will list all the pitches that have been selected to be worked on.
 
 ## Asynchronously
-We have people working all sorts of different hours and from all sorts of different places [...]. That alone makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work you do [...] shouldn’t require you to be in constant communication throughout the entire day with someone.
+We have people working all sorts of different hours and places. That alone makes it hard to enforce a lot of tightly-coupled workflows during the day, but that’s a feature not a bug. Most of the work you do shouldn’t require you to be in constant communication throughout the entire day with someone.
 
-t’s far better for everyone’s concentration and sanity if you collaborate as though most things will get an answer eventually, but not necessarily right this second. Your first choice of action should be:
+It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get an answer eventually, but not necessarily right this second. Your first choice of action should be:
 
 1. To post a message,
 2. To create a todo, or
@@ -59,20 +63,29 @@ t’s far better for everyone’s concentration and sanity if you collaborate as
 
 Then others can read it on their schedule, when the natural lulls of the day allow it, rather than being interrupted right in their peak flow time.
 
-Don’t take that as gospel, though. Some times you really DO need to tightly collaborate with someone for an extended period of time, and that’s fine. We have pings, hangouts, screensharing, or even in-person collaboration for when nothing else will do [...].
+Don’t take that as gospel, though. Some times you really DO need to tightly collaborate with someone for an extended period of time, and that’s fine. For that we have (folowing the above *priorization* list):
 
-### In Self-Sufficient, Independent Teams
-Organizational theory is thick with descriptions of the trade-offs between functional and project company structures. We seek to be more project than functional. This means a single project team should be able to go from idea to deploy as independently as possible.
+4. Basecamp pings, 
+5. Basecamp campfires, or 
+6. Hangouts, screensharing, or even in-person collaboration for when nothing else will do.
 
-### With Managers of One
-[...] We rely on everyone at _GRAPIN_ to do a lot of self-management. People who do this well qualify as managers of one, and we strive for everyone senior or above to embody this principle fully.
+## In Self-Sufficient, Independent Teams
+Organizational theory is thick with descriptions of the trade-offs between functional and project company structures. As guidelined by Basecamp, we also seek to be more project than functional. This means a single project team should be able to go from idea to deploy as independently as possible.
+
+## With Managers of One
+We encorage to do a lot of self-management. People who do this well qualify as "managers of one", and we strive for everyone senior or above to embody this principle fully.
 
 That means setting your own direction when one isn't given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There's always more work to be done, always more initiatives to kick off, always more improvement to be had.
 
-### Summary
-Basecamp is built to implement [Shape Up](https://basecamp.com/shapeup/4.0-appendix-01). In GRAPIN we implement a pseudo-version of Basecamp’s original methodology—which is summarized here:
+## Balanced
+We limit ourselves to a 42-hour work week. Keeping our hours at work limited forces us to prioritize the work that really matters.
 
-1. We work in 4-week cycles. After each cycle there is a cooldown week,
+For time tracking we have developed our own *GRAPIN’s Time Tracking Tool*. Please see sections [Holidays and Absences](holidays-and-absences.md) and [Tools](tools.md).
+
+## Summary
+Basecamp is built to implement [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup). In GRAPIN we implement a slightly different version of Basecamp’s original methodology—which is summarized here:
+
+1. We work mostly in 4-, 6- or 8-week cycles. After each cycle there is a cooldown period: 1 week for 4-week cycles, or two weeks for 6- or 8-week cycles,
 2. Within a cycle we implement the features that are decided in the _Product Strategy_ meetings. Strategy meetings happen eventually before the cooldown weeks,
 3. Bets for the next cycle will be announced with a ✨ message on the HQ,
 4. Everyone in the company can influence what we should be working on through posting pitches 💡 on the _Message Board_,
@@ -84,4 +97,4 @@ The following depictures the process:
 
 ![](png/shape-up-summary.png)
 
-*Shape Up Summary for a 6-week cycle*
+*Shape Up Summary for a 4-week cycle*
