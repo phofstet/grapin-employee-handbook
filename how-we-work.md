@@ -83,18 +83,20 @@ We limit ourselves to a 42-hour work week. Keeping our hours at work limited for
 For time tracking we have developed our own *GRAPIN’s Time Tracking Tool*. Please see sections [Holidays and Absences](holidays-and-absences.md) and [Tools](tools.md).
 
 ## Summary
-Basecamp is built to implement [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup). In GRAPIN we implement a slightly different version of Basecamp’s original methodology—which is summarized here:
+Basecamp is built to implement Shape Up. In GRAPIN we implement a slightly different version of Basecamp’s original methodology—which is summarized here:
 
 1. We work mostly in 4-, 6- or 8-week cycles. After each cycle there is a cooldown period: 1 week for 4-week cycles, or two weeks for 6- or 8-week cycles,
-2. Within a cycle we implement the features that are decided in the _Product Strategy_ meetings. Strategy meetings happen eventually before the cooldown weeks,
+2. Within a cycle we implement the features that are decided in the _Product Strategy_ betting table meetings—where we select what to build next by betting on pitches 💡 from the Product Strategy team _Message Board_. These meetings happen eventually before the cooldown weeks,
 3. Bets for the next cycle will be announced with a ✨ message on the HQ,
-4. Everyone in the company can influence what we should be working on through posting pitches 💡 on the _Message Board_,
-5. The first thing in a new cycle is a kick-off message with the shaped concept. Your project lead will write the related todos by an _Announcement_ 📢 on the _Message Board_,
-6. By the third week of the cycle you should start winding down and getting ready the new deployed features,
-7. At the end of each cylce your team lead will summarize and celebrate the work that's been done in a _Heartbeat_ message on the _Message Board_.
+4. Everyone in the company can influence what we should be working on through posting pitches 💡 on the HQ _Message Board_,
+5. The first thing in a new cycle is a kick-ff message with the shaped concept. Your project lead will write the related todos by an _Announcement_ 📢 on the project _Message Board_,
+6. Before the cooldown period you should start winding down and getting ready the new deployed features—instead in trying to put more work on the cycle,
+7. At the end of each cylce your team lead will summarize and celebrate the work that’s been done in a _Heartbeat_ message on the _Message Board_.
 
 The following depictures the process:
 
 ![](png/shape-up-summary.png)
 
 *Shape Up Summary for a 4-week cycle*
+
+For more information you could check [How to Implement Shape Up in Basecamp](https://basecamp.com/shapeup/4.0-appendix-01).
