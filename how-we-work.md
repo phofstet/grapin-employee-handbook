@@ -9,21 +9,23 @@
 Said that, at GRAPIN we also think about how to break big projects into smaller pieces, such that they can be done in a *resonable* amount of time. In the context of Basecamp and [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup), this smaller pieces are called cycles.
 
 ## Cycles
-In our case, the duration of the cycle will depend on the nature of each project, but it should cover an amount of work that can be completed  within 4- and 8-weeks.
+In our case, the duration of the cycle will depend on the nature of each project, but it should cover an amount of work that can be completed within 4- and 8-weeks.
 
 Fixing this cadence over a project serves to give us an internal sense of urgency, work focused on the scopes to keep projects from ballooning, and provide a regular interval to decide what we are working on. 
 
+Work is thus limited by a budget, and the budget focuses our discussion about what’s resonable and what’s not. When a project starts slipping on its budget, the first approach should be to judo the problem and scope hammer the domain—and certainly not make it up by working more hours! Most things we work on can fit within four to eight weeks.
+
+We make use of the cycles using a Basecamp plug-in called [Tracked](https://www.trackedhq.com). Please see the [Tools](/tools.md) section for more details.
+
 ## Cooldown
-In between each cycle, we should spend between one or two weeks cooling down. That’s the time to deal with bugs or smaller issues that come up, write up what we worked on, and find out what we should tackle next. 
+In between each cycle, we spend between one or two weeks cooling down (one week for 4-week cycles, and two for the rest). That’s the time to deal with bugs or smaller issues that come up, write up what we worked on, and find out what we should tackle next. 
 
-It’s sometimes tempting to simply extend the cycles into the cooldown period to fit more work. But the goal is to resist this temptation.
-
-That means that by week 4 of a 6-week cycle, we should be winding down, getting ready to launch, and make sure everything is lined up.
+It’s sometimes tempting to simply extend the cycles into the cooldown period to fit more work. But the goal is to resist this temptation and put the "pencils down". That means that by week 4 of a 6-week cycle, we should be winding down, getting ready to launch, and make sure everything is lined up.
 
 ## Communication
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on:
+It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along on the Basecamp Activity. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on:
 
-1. There’s the daily question of **What did you work on today?** They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Use them as such! You're obliged to answer this question at least twice a week when you're not out [...].
+1. There’s the daily question of **What did you work on today?** They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Use them as such! You're obliged to answer this question at least twice a week when you're not out.
 
 2. There’s the weekly question of **What will you be working on this week?**, which details your intentions for the coming week. Everyone is obliged to answer this question when they're not out.
 
@@ -37,6 +39,12 @@ These mechanisms work together to free individuals and teams to run their days a
 Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is through pitches.
 
 Write-up your idea of a new feature, a change to a feature, or any other product development you think we should be considering as a fully considered post (the more specific, the better). This gives the whole company a chance to consider and respond to the idea, and then we'll have the idea encapsulated in a post, available for reference at any time.
+
+It is important to have realistic expectations about what will happen after you posted a pitch:
+
+* Everyone involved with the product development will read your pitch, and that is a win right there: even if the full pitch does not make it, it can impact other product decisions,
+
+* Occasionally few pitches would appear directly for the next cycle
 
 [...] Before the start of every cycle, the team lead kickoff will list all the pitches that have been selected to be worked on.
 
@@ -74,6 +82,6 @@ Basecamp is built to implement [Shape Up](https://basecamp.com/shapeup/4.0-appen
 
 The following depictures the process:
 
-![](static/shape-up-summary.jpg)
+![](png/shape-up-summary.png)
 
-*Shape Up Summary*
+*Shape Up Summary for a 6-week cycle*
