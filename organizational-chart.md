@@ -13,7 +13,7 @@
 | Attila Kovacs (AK) | Head of Datacenter | Hans Jörg | Patrick |
 | Antun Remeta (AR) | Engineering and Operations | Attila | Attila |
 | Hans Jörg Rüetsche (HR) | CEO | - | Patrick |
-| Javier Moya (JM) | Chief Technology and Innovation Officer, and Team Leader | Hans Jörg and/or Patrick| Patrick |
+| Javier Moya (JM) | Chief Technology and Innovation Officer and Team Leader | Hans Jörg and/or Patrick| Patrick |
 | José Luis Barahona (JB) | Cloud Technical Leader | Javier and/or Patrick | Javier |
 | Karin Wyler (KW) | CMO | - | Sonja |
 | Kristiaan Hilger (KH) | CFO | Hans Jörg | Nicola |
