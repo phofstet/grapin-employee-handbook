@@ -8,7 +8,8 @@ At GRAPIN we use the following tools to operate the company:
 * Project Management: [Basecamp](#basecamp),
 * Documentation and File Sharing: [Nextcloud](#nextcloud),
 * Instant Messaging: included on Basecamp,
-* Time-tracking: a self-made tool that we like to call *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped on Basecamp—.
+* Time-tracking: a self-made tool that we like to call *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped on Basecamp—, and
+* Code Management: github.
 
 ## Basecamp
 
@@ -71,10 +72,6 @@ In order to install Tracked, please do the following:
 2. Ask for an email invitation to Patrick or Javi, and follow the instructions there.
 
 Besides of the Kanban board, Tracked adds a valuable feature to us: task-labels. With this labels we are able to assign tasks from different lists to a cycles in order to implement Shape Up in our projects.
-
-## Nextcloud
-
-*Coming soon!*
 
 ## Nextcloud
 
