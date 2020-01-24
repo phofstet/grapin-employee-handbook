@@ -11,9 +11,9 @@ Said that, at GRAPIN we also think about how to break big projects into smaller 
 ## Cycles
 In our case, the duration of the cycle will depend on the nature of each project, but it should cover an amount of work that can be completed within 4- and 8-weeks.
 
-Fixing this cadence over a project serves to give us an internal sense of urgency, work focused on the scopes to keep projects from ballooning, and provide a regular interval to decide what we are working on. 
+Fixing this cadence over a project serves to give us an internal sense of urgency, work as a [scope hammer](scope-hammering.md) on the scopes to keep projects from ballooning, and provide a regular interval to decide what we are working on. 
 
-Work is thus limited by a budget, and the budget focuses our discussion about what’s resonable and what’s not. When a project starts slipping on its budget, the first approach should be to judo the problem and scope hammer the domain—and certainly not make it up by working more hours! Most things we work on can fit within four to eight weeks.
+Work is thus limited by a budget, and the budget focuses our discussion about what’s resonable and what’s not. When a project starts slipping on its budget, the first approach should be to [judo](judo.md) the problem and scope hammer the domain—and certainly not make it up by working more hours! Most things we work on can fit within four to eight weeks.
 
 We make use of the cycles using a Basecamp plug-in called [Tracked](https://www.trackedhq.com). Please see the [Tools](/tools.md) section for more details.
 
