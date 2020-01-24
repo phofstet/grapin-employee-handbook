@@ -7,7 +7,7 @@ At GRAPIN we use the following tools to operate the company:
 
 * Project Management: [Basecamp](#basecamp) (includes instant messaging),
 * Documentation and File Sharing: [Nextcloud](#nextcloud),
-* Time-tracking: a self-made tool that we like to call *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped on Basecamp—, and
+* Time-tracking: *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped to Basecamp—, and
 * Code Management: github.
 
 ## Basecamp
