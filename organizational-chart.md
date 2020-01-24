@@ -6,8 +6,6 @@
 
 ![Organizational Chart](/png/190912_GRAPIN_org_chart_v0.07.png)
 
-*Organizational Chart*
-
 | Team Member (Nick Name) | Title | Reports to... | Backup |
 | ------ | ------ | ------ | ------ |
 | Attila Kovacs (AK) | Head of Datacenter | Hans Jörg | Patrick |
