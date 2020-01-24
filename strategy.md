@@ -7,5 +7,13 @@
 
 
 ## Vision
+Please follow this [private link](https://storage.grapin.ch/index.php/f/22503).
 
 ## Business Goals
+Please follow this [private link](https://storage.grapin.ch/index.php/f/225042).
+
+## User Goals
+Please follow this [private link](https://storage.grapin.ch/index.php/f/225043). 
+
+## Product Goals
+Please follow this [private link](https://storage.grapin.ch/index.php/f/225044).
