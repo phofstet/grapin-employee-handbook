@@ -6,7 +6,9 @@
 
 ![Organizational Chart](/png/190912_GRAPIN_org_chart_v0.07.png)
 
-*FOrganizational Chart*
+*Organizational Chart*
+
+List of GRAPIN employees (in alphabetical order):
 
 | Team Member (Nick Name) | Title | Reports to... | Backup |
 | ------ | ------ | ------ | ------ |
@@ -24,3 +26,5 @@
 | Roger Fehr (RF) | Head of Sales | Hans Jörg | Attila |
 | Sonja Herzog (SHE) | Head of Backoffice | Hans Jörg | Karin |
 | Walter Bless (WB) | Head of Consulting | Hans Jörg | - |
+
+Last updated 24.01.2020.
