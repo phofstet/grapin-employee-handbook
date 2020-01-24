@@ -4,9 +4,9 @@
 
 # Organizational Chart
 
-![Figure 1. Organizational Chart](/png/190912_GRAPIN_org_chart_v0.07.png)
+![Organizational Chart](/png/190912_GRAPIN_org_chart_v0.07.png)
 
-*Figure 1. Organizational Chart*
+*FOrganizational Chart*
 
 | Team Member (Nick Name) | Title | Reports to... | Backup |
 | ------ | ------ | ------ | ------ |
