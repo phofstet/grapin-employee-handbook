@@ -15,14 +15,14 @@ List of GRAPIN employees (in alphabetical order by name):
 | Attila Kovacs (AK) | Head of Datacenter | Hans Jörg | Patrick |
 | Antun Remeta (AR) | Engineering and Operations | Attila | Attila |
 | Hans Jörg Rüetsche (HR) | CEO | - | Patrick |
-| Javier Moya (JM) | CTIO and Project Leader | Hans Jörg and/or Patrick| Patrick |
+| Javier Moya (JM) | Chief Technology and Innovation Officer, and Team Leader | Hans Jörg and/or Patrick| Patrick |
 | José Luis Barahona (JB) | Cloud Technical Leader | Javier and/or Patrick | Javier |
 | Karin Wyler (KW) | CMO | - | Sonja |
 | Kristiaan Hilger (KH) | CFO | Hans Jörg | Nicola |
 | Leo Spichtig (LS) | FPGA Technical Leader | Javier and/or Patrick | Javier |
 | Lukas Jagerlehner (LJ) | CIO | Hans Jörg | Patrick |
 | Nicola Rüetsche (NR) | Head of Legal | Hans Jörg | Kristiaan |
-| Patrick Hofstetter (PH) | CTOO and Project Manager | Hans Jörg | Hans Jörg or Javier |
+| Patrick Hofstetter (PH) | Chief Technology and Operations Officer | Hans Jörg | Hans Jörg or Javier |
 | Roger Fehr (RF) | Head of Sales | Hans Jörg | Attila |
 | Sonja Herzog (SHE) | Head of Backoffice | Hans Jörg | Karin |
 | Walter Bless (WB) | Head of Consulting | Hans Jörg | - |
