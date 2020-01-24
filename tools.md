@@ -5,9 +5,8 @@
 # Tools
 At GRAPIN we use the following tools to operate the company:
 
-* Project Management: [Basecamp](#basecamp),
+* Project Management: [Basecamp](#basecamp) (includes instant messaging),
 * Documentation and File Sharing: [Nextcloud](#nextcloud),
-* Instant Messaging: included on Basecamp,
 * Time-tracking: a self-made tool that we like to call *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped on Basecamp—, and
 * Code Management: github.
 
@@ -63,6 +62,18 @@ In the case you select a _Due on_, you will see that task in both your _Basecamp
 
 As we all want to work independetly (but giving enough information to our colleagues about what we are working on), always add a description of the task on the _Notes_ section.
 
+### Communication
+
+There are many ways to communicate through Basecamp. In summary, you should try to follow this priorized list when you try to communicate with someone:
+
+1. Messages,
+2. ToDos,
+3. Documents,
+4. Pings, and
+5. Campfire (not relevant topics).
+
+As a general guideline for communications, we recommend you to read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate).
+
 ### Tracked
 [Tracked for Basecamp](https://www.trackedhq.com) is a plug-in that enables Kanban boards on Basecamp. This plug-in is only available for Chrome or compatible browsers.
 
@@ -74,5 +85,9 @@ In order to install Tracked, please do the following:
 Besides of the Kanban board, Tracked adds a valuable feature to us: task-labels. With this labels we are able to assign tasks from different lists to a cycles in order to implement Shape Up in our projects.
 
 ## Nextcloud
+
+*Coming soon!*
+
+## GRAPIN’s Time Tracking
 
 *Coming soon!*
