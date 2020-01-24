@@ -8,8 +8,6 @@
 
 *Organizational Chart*
 
-List of GRAPIN employees (in alphabetical order by name):
-
 | Team Member (Nick Name) | Title | Reports to... | Backup |
 | ------ | ------ | ------ | ------ |
 | Attila Kovacs (AK) | Head of Datacenter | Hans Jörg | Patrick |
