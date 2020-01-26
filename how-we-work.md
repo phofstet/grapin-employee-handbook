@@ -99,6 +99,6 @@ The following depictures the process:
 
 ![](png/shape-up-summary.png)
 
-*Shape Up Summary for a 4-week cycle*
+*Shape Up Summary for a 6-week cycle*
 
 For more information please check [How to Implement Shape Up in Basecamp](https://basecamp.com/shapeup/4.0-appendix-01).
