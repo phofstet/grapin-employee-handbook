@@ -23,4 +23,4 @@
 | Sonja Herzog (SHE) | Head of Backoffice | Hans Jörg | Karin |
 | Walter Bless (WB) | Head of Consulting | Hans Jörg | - |
 
-Last updated 24.01.2020.
+*Last update 24.01.2020.*
