@@ -4,7 +4,7 @@
 
 
 # How We Work
-*First of all, we would like to point that this section is inspired by its homonymous counterpart of the [Basecamp’s handbook (last seen 22.02.2020)](https://github.com/basecamp/handbook/blob/master/how-we-work.md).* 
+First of all, we would like to highlight that this section is based on its homonymous counterpart of the *Basecamp Employee Handbook*.
 
 Said that, at GRAPIN we also think about how to break big projects into smaller pieces, such that they can be done in a *resonable* amount of time. In the context of Basecamp and [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup), this smaller pieces are called cycles.
 
@@ -34,6 +34,8 @@ It’s hard to keep up on what everyone is doing and what it means, if you just 
 4. There is the kickoffs. These are the team version of *What are you going to work on next cycle?* This is where the plan for the coming weeks is presented. Every team lead is obliged to write, or designate someone on the team to write, this account before the start of the new cycle.
 
 These mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. By having clear expectations for communication, it's easier for everyone to build trust in where we're going and why.
+
+Before continuing, please read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate) carefully. 
 
 ## Pitches
 Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is through pitches.
@@ -99,4 +101,4 @@ The following depictures the process:
 
 *Shape Up Summary for a 4-week cycle*
 
-For more information you could check [How to Implement Shape Up in Basecamp](https://basecamp.com/shapeup/4.0-appendix-01).
+For more information please check [How to Implement Shape Up in Basecamp](https://basecamp.com/shapeup/4.0-appendix-01).
