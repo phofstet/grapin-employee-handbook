@@ -3,3 +3,15 @@
 </p>
 
 # Projects
+
+## GRAPIN Cloud
+
+Coming soon!
+
+### IaaS: a Partnership with Mirantis
+
+Coming soon!
+
+### FaaS: a Partnership with IBM Research Zürich
+
+Coming soon!
