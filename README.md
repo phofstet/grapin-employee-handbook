@@ -18,7 +18,7 @@ English | <a href="/schweizerdeutsch/README.md">Schweizerdeutsch</a>
       </td>
     </tr>
   </tbody>
- </table>
+</table>
 
 With this simple handbook we pretend to clarify not only to our employees—but also partners and investors—who we are as a company (what’s our culture, process, and history), what do we stand for?, and how should we work.
 
