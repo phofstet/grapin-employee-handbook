@@ -146,4 +146,18 @@ For more information, please read [The Basecamp Guide to Internal Communication 
 
 * Builders break the work into scopes—parts they can build and vertically integrate independently of other parts—and define their own tasks.
 
-* As they build scopes end-to-end, they report progress in terms of whether the work is *uphill*—still containing unknowns—or downhill—solved and merely requiring further labor to finish. 
+* As they build scopes end-to-end, they report progress in terms of whether the work is *uphill*—still containing unknowns—or downhill—solved and merely requiring further labor to finish.
+
+### Looping through the steps 
+
+This illustration shows how the team loops through the process to get to the point where multiple scopes are in progress.
+
+![Looping through the steps](png/looping-through-the-steps.png)
+*Looping through the steps*
+
+1. Kickoff: someone from the betting table inform the team members about the project and gives them the shaped pitch.
+2. Orient: the team familiarize themselves with the pitch and the existing system. They think of imagined tasks and start capturing discovered tasks by spiking experiments with real code and design.
+3. Scope: after getting oriented, the team defines a single scope—the one thing to design, build, and wire together first. Later, after they’ve start building and discovered more tasks, they come back and map the work into more scopes to track, build and finish independently.
+4. Build vertically: with some scope defined, the teams build just enough code and design to get that one thing working.
+5. Report: when they feel due to show progress, theam members plot the progress of scopes on the *hill chart* to show which still contain unknowns and which are fully solved.
+6. The teams use the *[scope hammer](scope-hammering)* at every step to separate the must-haves from the maybes. They prioritize the most important scopes and solve the biggest unknowns first. Hammering the scope like this allows them to cut unimportant enchancements or nice-to-haves at the end of the project and ship on time. 
