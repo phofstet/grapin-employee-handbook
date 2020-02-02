@@ -92,7 +92,7 @@ For time tracking we have developed our own *GRAPIN’s Time Tracking Tool*. Ple
 
 ### Six week cycles, two tracks
 
-![Six week cycles, two tracks](png/shape-up-summary.png)
+![Six week cycles, two tracks](png/six-week-cycles-two-tracks.png)
 *Six week cycles, two tracks*
 
 * Build teams work in six week cycles,
