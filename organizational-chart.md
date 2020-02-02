@@ -10,13 +10,13 @@
 | ------ | ------ | ------ | ------ |
 | Attila Kovacs (AK) | Head of Datacenter | Hans Jörg | Patrick |
 | Antun Remeta (AR) | Engineering and Operations | Attila | Attila |
-| Hans Jörg Rüetsche (HR) | CEO | - | Patrick |
+| Hans Jörg Rütsche (HR) | CEO | - | Patrick |
 | Javier Moya (JM) | Chief Technology Innovation Officer | Hans Jörg | Patrick |
 | José Luis Barahona (JB) | Cloud Technical Leader | Javier and/or Patrick | Javier |
 | Karin Wyler (KW) | CMO | - | Sonja |
 | Kristiaan Hilger (KH) | CFO | Hans Jörg | Nicola |
 | Leo Spichtig (LS) | FPGA Technical Leader | Javier and/or Patrick | Javier |
-| Nicola Rüetsche (NR) | Head of Legal | Hans Jörg | Kristiaan |
+| Nicola Rütsche (NR) | Head of Legal | Hans Jörg | Kristiaan |
 | Patrick Hofstetter (PH) | Chief Technology and Operations Officer | Hans Jörg | Hans Jörg or Javier |
 | Roger Fehr (RF) | Head of Sales | Hans Jörg | Attila |
 | Sonja Herzog (SHE) | Head of Backoffice | Karin | Karin |
