@@ -35,8 +35,6 @@ It’s hard to keep up on what everyone is doing and what it means, if you just 
 
 These mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. By having clear expectations for communication, it's easier for everyone to build trust in where we're going and why.
 
-Before continuing, please read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate) carefully. 
-
 ## Pitches
 Whether you work on the product development or not, your voice and observations can help determine what we should be working on. The way to exert this influence is through pitches.
 
@@ -84,23 +82,45 @@ We limit ourselves to a 42-hour work week. Keeping our hours at work limited for
 
 For time tracking we have developed our own *GRAPIN’s Time Tracking Tool*. Please see sections [Holidays and Absences](holidays-and-absences.md) and [Tools](tools.md).
 
-## Shape Up Summary 
-Basecamp is built to implement Shape Up. In GRAPIN we stick to the basics of the methodology, which is summarised here:
-
-1. Builders work within 6-week cycles; after each cycle there is a 2-weeks cooldown period,
-2. Within a cycle we implement the features that are decided in the _Product Strategy_ betting table meetings—where we select what to build next by betting on shaped pitches 💡 from the Product Strategy team _Message Board_. These meetings happen eventually during the cooldown weeks,
-3. Bets for the next cycle will be announced with a ✨ message on the HQ,
-4. Everyone in the company can influence what we should be working on through posting pitches 💡 on the HQ _Message Board_,
-5. The first thing in a new cycle is a kick-off message with the shaped concept. Your project lead will write the related todos by an _Announcement_ 📢 on the project _Message Board_,
-6. Before the cooldown period you should start winding down and getting ready the new deployed features—instead in trying to put more work on the cycle,
-7. At the end of each cylce your team lead will summarize and celebrate the work that’s been done in a _Heartbeat_ message on the _Message Board_.
+## Summary of the Method 
 
 ### Six week cycles, two tracks
 
-![](png/shape-up-summary.png)
+![Shape Up Summary](png/shape-up-summary.png)
 
 *Shape Up Summary for a 6-week cycle*
 
-* Build teams work in six week cycles.
+* Build teams work in six week cycles,
+* Shaping happens on a track parellel to building. It produces potential projects that are six weeks long or shorter,
+* The betting table is held in the two-week cool-down between cycles. Unshaped work is considered too risky to bet on,
+* Betting means a team is given six uninterrupted weeks to finish the shaped work,
+* During cool-down, teams have no scheduled work. It’s slack time to deply, debrief, fix bugs, and/or lear new tech. 
 
-### Announcements
+Shaping work is qualitetively different from building. It’s unknown in advance which ideas will turn into bettable projects and which ones won’t. Some projects are shaped quickly, some take multiple cycles, and some never come together. What’s important is to always have some good options for the betting table before each cycle.
+
+### Internal Communication
+
+The picture above depicts some of the communication events previosly mentioned:
+
+* Heartbeats ❤️: What did you worked on this cycle? The team lead will write a message after a cycle has ended informing about the work that has been completed. This message will be posted on the Message Board of a Basecamp project.
+
+* Kickoffs 📢: What are you going to work on next cycle? The first thing in a new cycle is a kick-off message with the shaped concept. The team lead will write this message on the Message Board of a Basecamp project.
+
+* Pitches 💡: pitches are potential bets, and are written on the Product Strategy Basecamp team. Everyone in the company can influence what we should be working on through posting pitches.
+
+* Announcing the bets ✨: The CEO or its representative will write a message announcing the bets for the next cycle. This message will be posted on the Message Board on Basecamp’s HQ.
+
+Some other general principles that we try to follow when communicating with teammates, within departments, across the company, and with the public, are listed here:
+
+1. Few things are as important to study, practice, and perfect as clear communication.
+2. Real-time sometimes, asynchronous most of the time.
+3. Internal communication based on long-form writing, rather than verbal tradition of meetings, speaking, and chatting, leads to a welcomed reduction in meetings, video conferences, calls, or other real-time opportunities to interrupt and be interrupted.
+4. Give meaningful discussions a meaningful amount of time to develop and unfold. Rushing to judgement, or demanding immediate responses only serves to increase the odds of poor decision making.
+5. Meetings are the last resort, not the first option.
+6. Writing solidifies, chat dissolves. Substantial decisions start and end with an exchange of complete thoughts, not one-line-at-a-time jousts. If it's important, critical, or fundamental, write it up, don't chat it down.
+7. Speaking only helps who’s in the room, writing helps everyone.
+8. If your words can be perceived in different ways, they'll be understood in the way which does the most harm.
+9. Never expect or require someone to get back to you immediately unless it’s a true emergency. The expectation of immediate response is toxic.
+10. Poor communication creates more work.
+
+For more information, please read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate). 
