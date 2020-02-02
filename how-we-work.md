@@ -124,7 +124,7 @@ Some other general principles that we try to follow when communicating with team
 
 For more information, please read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate). 
 
-## Phases of the work
+### Phases of the work
 
 ![Phases of the work](png/phases-of-the-work.png)
 *Phases of the work*
