@@ -134,3 +134,12 @@ For more information, please read [The Basecamp Guide to Internal Communication 
 * Betting turns the work into a scheduled project with a deadline and team.
 * The teams works with the outline of the shaped concept. They break the project into scopes that integrate front and back-end work. They finish one scope early in the cycle to validate the concept and gain momentum.
 * Further into the cycle, the team has mapped scopes for the whole project and finished the most important ones first. 
+
+### Steps to perform 
+
+![Steps to perform](png/steps-to-perform.png)
+*Steps to perform*
+
+* Projects start with shaping a potential solution to fit within constraints (like the *appetite*, the amount of time the stakeholders think the project is worth). Shaping is done by senior designers with input from senior technical and business people. Work at the shaping stage is concrete enough to evaluate but rough enough that the team has room to resolve the countless details.
+
+* The output of shaping is a pitch—a potential bet for the betting table. Betting means committing a small cross-functional team for an interrupted period of time (six weeks) to build and ship the pitch. 
