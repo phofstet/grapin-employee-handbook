@@ -86,9 +86,8 @@ For time tracking we have developed our own *GRAPIN’s Time Tracking Tool*. Ple
 
 ### Six week cycles, two tracks
 
-![Shape Up Summary](png/shape-up-summary.png)
-
-*Shape Up Summary for a 6-week cycle*
+![Shape Up Summary for a 6-weeks cycle](png/shape-up-summary.png)
+*Shape Up Summary for a 6-weeks cycle*
 
 * Build teams work in six week cycles,
 * Shaping happens on a track parellel to building. It produces potential projects that are six weeks long or shorter,
@@ -124,3 +123,14 @@ Some other general principles that we try to follow when communicating with team
 10. Poor communication creates more work.
 
 For more information, please read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate). 
+
+## Phases of the work
+
+![Phases of the work](png/phases-of-the-work.png)
+*Phases of the work*
+
+* Work starts unshaped as raw requests and ideas.
+* Work is shaped into a concept at the right level of abstraction: defined enough to bet on but with the details left for the team to work out.
+* Betting turns the work into a scheduled project with a deadline and team.
+* The teams works with the outline of the shaped concept. They break the project into scopes that integrate front and back-end work. They finish one scope early in the cycle to validate the concept and gain momentum.
+* Further into the cycle, the team has mapped scopes for the whole project and finished the most important ones first. 
