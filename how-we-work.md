@@ -4,9 +4,9 @@
 
 
 # How We Work
-First of all, we would like to highlight that this section is based on its homonymous counterpart of the *Basecamp Employee Handbook*. Said that, at GRAPIN we also think about how to break big projects into smaller pieces, such that they can be done in a *resonable* amount of time. In the context of Basecamp and [Shape Up (last seen 22.02.2020)](https://basecamp.com/shapeup), this smaller pieces are called cycles.
+First of all, we would like to highlight that this section is based on its homonymous counterpart of the *Basecamp Employee Handbook*. Said that, at GRAPIN we also think about how to break big projects into smaller pieces, such that they can be done in a *resonable* amount of time. In the context of Basecamp and [Shape Up](https://basecamp.com/shapeup), this smaller pieces are called cycles.
 
-### Sections
+<!--### Sections
 
 * [Cycles](#cycles)
 * [Cooldown](#cooldown)
@@ -16,16 +16,12 @@ First of all, we would like to highlight that this section is based on its homon
 * [In Self-Sufficient, Independent Teams](#in-self-sufficient-independent-teams)
 * [With Managers of One](#with-managers-of-one)
 * [Balanced](#balanced)
-* [Summary of the Method](#summary-of-the-method)
+* [Summary of the Method](#summary-of-the-method)-->
 
 ## Cycles
-In our case, the duration of the cycle will depend on the nature of each project, but it should cover an amount of work that can be completed within 4- and 8-weeks.
-
-Fixing this cadence over a project serves to give us an internal sense of urgency, work as a [scope hammer](scope-hammering.md) on the scopes to keep projects from ballooning, and provide a regular interval to decide what we are working on. 
+We work in 6-week or 8-week cycles. There are typically six cycles to a year. Two are 8-week cycles, during Summer Hours, and the rest 6-week cycles. Fixing this cadence over a project serves to give us an internal sense of urgency, work as a [scope hammer](scope-hammering.md) on the scopes to keep projects from ballooning, and provide a regular interval to decide what we are working on. 
 
 Work is thus limited by a budget, and the budget focuses our discussion about what’s resonable and what’s not. When a project starts slipping on its budget, the first approach should be to [judo](judo.md) the problem and scope hammer the domain—and certainly not make it up by working more hours! Most things we work on can fit within four to eight weeks.
-
-We make use of the cycles using a Basecamp plug-in called [Tracked](https://www.trackedhq.com). Please see the [Tools](/tools.md) section for more details.
 
 ## Cooldown
 In between each cycle, we spend between one or two weeks cooling down (one week for 4-week cycles, and two for the rest). That’s the time to deal with bugs or smaller issues that come up, write up what we worked on, and find out what we should tackle next. 
@@ -132,7 +128,7 @@ Some other general principles that we try to follow when communicating with team
 9. Never expect or require someone to get back to you immediately unless it’s a true emergency. The expectation of immediate response is toxic.
 10. Poor communication creates more work.
 
-For more information, please read [The Basecamp Guide to Internal Communication (last seen 22.02.2020)](https://basecamp.com/guides/how-we-communicate). 
+For more information, please read [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate). 
 
 ### Phases of the work
 
