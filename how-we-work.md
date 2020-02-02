@@ -86,8 +86,8 @@ For time tracking we have developed our own *GRAPIN’s Time Tracking Tool*. Ple
 
 ### Six week cycles, two tracks
 
-![Shape Up Summary for a 6-weeks cycle](png/shape-up-summary.png)
-*Shape Up Summary for a 6-weeks cycle*
+![Six week cycles, two tracks](png/shape-up-summary.png)
+*Six week cycles, two tracks*
 
 * Build teams work in six week cycles,
 * Shaping happens on a track parellel to building. It produces potential projects that are six weeks long or shorter,
@@ -143,3 +143,7 @@ For more information, please read [The Basecamp Guide to Internal Communication 
 * Projects start with shaping a potential solution to fit within constraints (like the *appetite*, the amount of time the stakeholders think the project is worth). Shaping is done by senior designers with input from senior technical and business people. Work at the shaping stage is concrete enough to evaluate but rough enough that the team has room to resolve the countless details.
 
 * The output of shaping is a pitch—a potential bet for the betting table. Betting means committing a small cross-functional team for an interrupted period of time (six weeks) to build and ship the pitch. 
+
+* Builders break the work into scopes—parts they can build and vertically integrate independently of other parts—and define their own tasks.
+
+* As they build scopes end-to-end, they report progress in terms of whether the work is *uphill*—still containing unknowns—or downhill—solved and merely requiring further labor to finish. 
