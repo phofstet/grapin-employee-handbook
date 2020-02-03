@@ -170,8 +170,7 @@ This illustration shows how the team loops through the process to get to the poi
 
 ## Glossary
 
-### Appetite
-The amount of time we want to spend on a project or the stakeholders think the project is worth—as opposed to an estimate.
+* Appetite: The amount of time we want to spend on a project or the stakeholders think the project is worth—as opposed to an estimate.
 
 ### Baseline
 What customers are doing without the thing we’re currently building.
