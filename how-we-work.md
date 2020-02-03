@@ -1,5 +1,5 @@
 <p align="right">
-<a href="README.md">Home</a> | <a href="holidays-and-absences.md">Back</a> | <a href="organizational-chart.md">Next</a>
+<a href="README.md">Home</a> | <a href="holidays-and-absences.md">Back</a> | <a href="projects.md">Next</a>
 </p>
 
 

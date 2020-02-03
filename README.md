@@ -30,7 +30,6 @@ If you are reading this *employee’s handbook* you have probably started workin
 * [Expenses](expenses.md)
 * [Holidays and Absences](holidays-and-absences.md)
 * [How We Work](how-we-work.md)
-* [Organizational Chart](organizational-chart.md)
 * [Projects](projects.md)
 * [Strategy](strategy.md)
 * [Tools](tools.md)
