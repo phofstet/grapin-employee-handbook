@@ -174,86 +174,58 @@ This illustration shows how the team loops through the process to get to the poi
 
 * **Baseline:** What customers are doing without the thing we’re currently building.
 
-### Bet
-The decision to commit a team to a project for one cycle with no interruptions and an expectation to finish.
+* **Bet:** The decision to commit a team to a project for one cycle with no interruptions and an expectation to finish.
 
-### Betting table
-A meeting during cool-down when stakeholders decide which pitches to bet on in the next cycle.
+* **Betting table:** A meeting during cool-down when stakeholders decide which pitches to bet on in the next cycle.
 
-### Big batch
-One project that occupies a team for a whole cucle and ships at the end.
+* **Big batch:** One project that occupies a team for a whole cucle and ships at the end.
 
-<!--### Breadboard
-A UI concept that defines affordances and their connections without visual styling.-->
+<!--* **Breadboard:** A UI concept that defines affordances and their connections without visual styling.-->
 
-### Circuit breaker
-A risk management technique: Cancel projects that don’t ship on one cycle by default instead of extending them by default.
+* **Circuit breaker:** A risk management technique: Cancel projects that don’t ship on one cycle by default instead of extending them by default.
 
-### Cool-down
-A two-week break between cycles to do ad-hoc tasks, fix bugs, document, and hold a getting table.
+* **Cool-down:** A two-week break between cycles to do ad-hoc tasks, fix bugs, document, and hold a getting table.
 
-### Cycle
-A six week period of time where teams work uninterruptedly on shaped projects.
+* **Cycle:** A six week period of time where teams work uninterruptedly on shaped projects.
 
-### De-risk
-Improve the odds of shipping within one cycle by shaping and removing rabbit holes.
+* **De-risk:** Improve the odds of shipping within one cycle by shaping and removing rabbit holes.
 
-### Discovered tasks
-Tasks the team discovers they need to do after they start getting involved in the real work.
+* **Discovered tasks:** Tasks the team discovers they need to do after they start getting involved in the real work.
 
-### Downhill
-The phase of a task, scope or project where all unknowns are solved and only execution is left.
+* **Downhill:** The phase of a task, scope or project where all unknowns are solved and only execution is left.
 
-<!--### Fat marker sketch
-A sketch of a UI concept at very low fidelity drawn whith a thick line.-->
+<!--* **Fat marker sketch:** A sketch of a UI concept at very low fidelity drawn whith a thick line.-->
 
-### Hill chart
-A diagram showing the status of work on an spectrum from unknown to known to done.
+*  **Hill chart:** A diagram showing the status of work on an spectrum from unknown to known to done.
 
-<!--### Iceberg
-A scope of work where the back-end work is much more complex than the UI or vice versa.-->
+<!--* **Iceberg:** A scope of work where the back-end work is much more complex than the UI or vice versa.-->
 
-<!--### Imagined tasks
-Work the teams decide they need to do after just thinking about the project. See discovered tasks.-->
+<!--* **Imagined tasks:** Work the teams decide they need to do after just thinking about the project. See discovered tasks.-->
 
-<!--### Layer cake
-A scope of work you can estimate by looking at the surface area of the UI.-->
+<!--* **Layer cake:** A scope of work you can estimate by looking at the surface area of the UI.-->
 
-<!--### Level of abstraction
-The amount of detail we leave in or our when describing a problem or a solution.-->
+<!--*  **Level of abstraction:** The amount of detail we leave in or our when describing a problem or a solution.-->
 
-### Must-haves
-Tasks that must be completed for a scope to be considered done.
+* **Must-haves:** Tasks that must be completed for a scope to be considered done.
 
-### Nice-to-haves
-Tasks that must be completed for a scope to be considered done.
+* **Nice-to-haves:** Tasks that must be completed for a scope to be considered done.
 
-### Pitch
-A document that presents a shaped project idea for consideration at the betting table.
+* **Pitch:** A document that presents a shaped project idea for consideration at the betting table.
 
-### Rabit hole
-Part of a project that is too unknown, complex, or open-ended to bet on.
+* **Rabit hole:** Part of a project that is too unknown, complex, or open-ended to bet on.
 
-### Raw ideas (🛠)
-Requests or feature ideas that are expressed in words and haven’t been shaped.
+* **Raw ideas (🛠):** Requests or feature ideas that are expressed in words and haven’t been shaped.
 
-### Scopes
-Parts of a project that can be built, integrated, and finished independently of the rest of the project.
+* **Scopes:** Parts of a project that can be built, integrated, and finished independently of the rest of the project.
 
-### Scope hammering
-Forcefully questioning a design, implementation, or use case to cut scope and finish inside the fixed time box.
+* **Scope hammering:** Forcefully questioning a design, implementation, or use case to cut scope and finish inside the fixed time box.
 
-### Shape
-Make an abstract project idea more concrete by defining key elements of the solution before betting on it.
+* **Shape:** Make an abstract project idea more concrete by defining key elements of the solution before betting on it.
 
-### Six weeks
-The length of our cycles. Six weeks is long enough to finish something meaningful and short enough to feel the deadline from the beginning.
+* **Six weeks:** The length of our cycles. Six weeks is long enough to finish something meaningful and short enough to feel the deadline from the beginning.
 
-### Small batch
-A set of 1-2 week projects that a single team ships by the of a six week cycle.
+* **Small batch:** A set of 1-2 week projects that a single team ships by the of a six week cycle.
 
-### Time horizon
-The longest period of time where we can feel a deadline pushing on us from the beginning. Six weeks.
+* **Time horizon:** The longest period of time where we can feel a deadline pushing on us from the beginning. Six weeks.
 
-### Uphill
-The phase of a task, scoper or project where there are still unknowns or unsolved problems.
+* **Uphill:** The phase of a task, scoper or project where there are still unknowns or unsolved problems.
