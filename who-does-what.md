@@ -11,7 +11,7 @@
 bla bla bla
 
 * Organizational Role: Head of Datacenter
-* Reports to...: Hans Jörg 
+* Reports to: Hans Jörg 
 * Backup: Antun
 * GRAPIN Cloud Project Role:
 * Other Other: -
@@ -20,7 +20,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: Engineering and Operations
-* Reports to...: Attila
+* Reports to: Attila
 * Backup: Attila
 * GRAPIN Cloud Project Role:
 * Other Other: -
@@ -29,7 +29,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: CEO 
-* Reports to...: -
+* Reports to: -
 * Backup: Patrick
 * GRAPIN Cloud Project Role: Steering Committees
 * Other Projects: -
@@ -38,7 +38,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: CTIO (Technology and Innovation)
-* Reports to...: Hans Jörg
+* Reports to: Hans Jörg
 * Backup: Patrick
 * GRAPIN Cloud Project Role: Project Leader | FaaS Technical Leader | Product Strategy
 * Other Projects: FPGA Design Platform | FPGA Mining
@@ -47,7 +47,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: Cloud Technical Leader
-* Reports to...: Javier and/or Patrick
+* Reports to: Javier and/or Patrick
 * Backup: Javier
 * GRAPIN Cloud Project Role: IaaS Technical Leader
 * Other Projects:
@@ -56,7 +56,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: CMO
-* Reports to...: -
+* Reports to: -
 * Backup: Sonja
 * GRAPIN Cloud Project Role: Market Research and Communications
 * Other Projects: - 
@@ -68,7 +68,7 @@ bla bla bla
 8. Market communications
 
 * Organizational Role: CFO
-* Reports to...: Hans Jörg
+* Reports to: Hans Jörg
 * Backup: Nicola
 * GRAPIN Cloud Project Role: Procurement Manager | Product Strategy
 * Other Projects: 
@@ -77,7 +77,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: Hardware Technical Leader
-* Reports to...: Javier and/or Patrick
+* Reports to: Javier and/or Patrick
 * Backup: Javier
 * GRAPIN Cloud Project Role: FPGA Technical Leader
 * Other Projects: FPGA Design Platform | FPGA Mining
@@ -89,7 +89,7 @@ bla bla bla
 4. Negotiate with the Team
 
 * Organizational Role: Head of Legal
-* Reports to...: Hans Jörg
+* Reports to: Hans Jörg
 * Backup: Kristiaan
 * GRAPIN Cloud Project Role: Product Manager | Product Strategy
 * Other Projects: 
@@ -98,7 +98,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: CTOO (Technology and Operations)
-* Reports to...: Hans Jörg
+* Reports to: Hans Jörg
 * Backup: Hans Jörg
 * GRAPIN Cloud Project Role: Project Manager | Steering Committees | Product Strategy
 * Other Projects: -
@@ -107,7 +107,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: Head of Sales
-* Reports to...: Hans Jörg
+* Reports to: Hans Jörg
 * Backup: Attila
 * GRAPIN Cloud Project Role: Head of Sales
 * Other Projects:
@@ -116,7 +116,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: Heaf of Backoffice
-* Reports to...: Karin
+* Reports to: Karin
 * Backup: Karin
 * GRAPIN Cloud Project Role: Heaf of Backoffice
 * Other Projects:
@@ -125,7 +125,7 @@ bla bla bla
 bla bla bla
 
 * Organizational Role: Head of Consulting
-* Reports to...: Hans Jörg
+* Reports to: Hans Jörg
 * Backup: -
 * GRAPIN Cloud Project Role:
 * Other Projects:
