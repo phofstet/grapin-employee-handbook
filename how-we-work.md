@@ -146,7 +146,7 @@ For more information, please read [The Basecamp Guide to Internal Communication]
 ![Steps to perform](png/steps-to-perform.png)
 *Steps to perform*
 
-* Projects start with shaping a potential solution to fit within constraints (like the *appetite*, the amount of time the stakeholders think the project is worth). Shaping is done by senior designers with input from senior technical and business people. Work at the shaping stage is concrete enough to evaluate but rough enough that the team has room to resolve the countless details.
+* Projects start with shaping a potential solution to fit within constraints (like the *[appetite](#appetite)*). Shaping is done by senior designers with input from senior technical and business people. Work at the shaping stage is concrete enough to evaluate but rough enough that the team has room to resolve the countless details.
 
 * The output of shaping is a pitch—a potential bet for the betting table. Betting means committing a small cross-functional team for an interrupted period of time (six weeks) to build and ship the pitch. 
 
@@ -167,3 +167,95 @@ This illustration shows how the team loops through the process to get to the poi
 4. Build vertically: with some scope defined, the teams build just enough code and design to get that one thing working.
 5. Report: when they feel due to show progress, theam members plot the progress of scopes on the *hill chart* to show which still contain unknowns and which are fully solved.
 6. The teams use the *[scope hammer](scope-hammering.md)* at every step to separate the must-haves from the maybes. They prioritize the most important scopes and solve the biggest unknowns first. Hammering the scope like this allows them to cut unimportant enchancements or nice-to-haves at the end of the project and ship on time. 
+
+## Glossary
+
+### Appetite
+The amount of time we want to spend on a project or the stakeholders think the project is worth—as opposed to an estimate.
+
+### Baseline
+What customers are doing without the thing we’re currently building.
+
+### Bet
+The decision to commit a team to a project for one cycle with no interruptions and an expectation to finish.
+
+### Betting table
+A meeting during cool-down when stakeholders decide which pitches to bet on in the next cycle.
+
+### Big batch
+One project that occupies a team for a whole cucle and ships at the end.
+
+<!--### Breadboard
+A UI concept that defines affordances and their connections without visual styling.-->
+
+### Circuit breaker
+A risk management technique: Cancel projects that don’t ship on one cycle by default instead of extending them by default.
+
+### Cool-down
+A two-week break between cycles to do ad-hoc tasks, fix bugs, document, and hold a getting table.
+
+### Cycle
+A six week period of time where teams work uninterruptedly on shaped projects.
+
+### De-risk
+Improve the odds of shipping within one cycle by shaping and removing rabbit holes.
+
+### Discovered tasks
+Tasks the team discovers they need to do after they start getting involved in the real work.
+
+### Downhill
+The phase of a task, scope or project where all unknowns are solved and only execution is left.
+
+<!--### Fat marker sketch
+A sketch of a UI concept at very low fidelity drawn whith a thick line.-->
+
+### Hill chart
+A diagram showing the status of work on an spectrum from unknown to known to done.
+
+<!--### Iceberg
+A scope of work where the back-end work is much more complex than the UI or vice versa.-->
+
+<!--### Imagined tasks
+Work the teams decide they need to do after just thinking about the project. See discovered tasks.-->
+
+<!--### Layer cake
+A scope of work you can estimate by looking at the surface area of the UI.-->
+
+<!--### Level of abstraction
+The amount of detail we leave in or our when describing a problem or a solution.-->
+
+### Must-haves
+Tasks that must be completed for a scope to be considered done.
+
+### Nice-to-haves
+Tasks that must be completed for a scope to be considered done.
+
+### Pitch
+A document that presents a shaped project idea for consideration at the betting table.
+
+### Rabit hole
+Part of a project that is too unknown, complex, or open-ended to bet on.
+
+### Raw ideas (🛠)
+Requests or feature ideas that are expressed in words and haven’t been shaped.
+
+### Scopes
+Parts of a project that can be built, integrated, and finished independently of the rest of the project.
+
+### Scope hammering
+Forcefully questioning a design, implementation, or use case to cut scope and finish inside the fixed time box.
+
+### Shape
+Make an abstract project idea more concrete by defining key elements of the solution before betting on it.
+
+### Six weeks
+The length of our cycles. Six weeks is long enough to finish something meaningful and short enough to feel the deadline from the beginning.
+
+### Small batch
+A set of 1-2 week projects that a single team ships by the of a six week cycle.
+
+### Time horizon
+The longest period of time where we can feel a deadline pushing on us from the beginning. Six weeks.
+
+### Uphill
+The phase of a task, scoper or project where there are still unknowns or unsolved problems.
