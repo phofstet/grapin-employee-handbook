@@ -4,8 +4,12 @@
 
 # Who Does What?
 
+This is GRAPIN’s organizational chart:
+
 ![Organizational Chart](/png/grapin-organizational-chart.png)
 *Organizational Chart*
+
+The Product Strategy team decides what are we gonna work next. In the context of Shape Up (see [How We Work](how-we-work.md)), it helds the shaping process and the betting table, and it produces the potential projets that are six week long.
 
 ## Attila Kovacs (AK)
 bla bla bla
