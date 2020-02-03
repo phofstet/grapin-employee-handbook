@@ -146,7 +146,7 @@ For more information, please read [The Basecamp Guide to Internal Communication]
 ![Steps to perform](png/steps-to-perform.png)
 *Steps to perform*
 
-* Projects start with shaping a potential solution to fit within constraints (like the *[appetite](#appetite)*). Shaping is done by senior designers with input from senior technical and business people. Work at the shaping stage is concrete enough to evaluate but rough enough that the team has room to resolve the countless details.
+* Projects start with shaping a potential solution to fit within constraints (like the *[appetite](#glossary)*). Shaping is done by senior designers with input from senior technical and business people. Work at the shaping stage is concrete enough to evaluate but rough enough that the team has room to resolve the countless details.
 
 * The output of shaping is a pitch—a potential bet for the betting table. Betting means committing a small cross-functional team for an interrupted period of time (six weeks) to build and ship the pitch. 
 
@@ -170,10 +170,9 @@ This illustration shows how the team loops through the process to get to the poi
 
 ## Glossary
 
-* Appetite: The amount of time we want to spend on a project or the stakeholders think the project is worth—as opposed to an estimate.
+* **Appetite:** The amount of time we want to spend on a project or the stakeholders think the project is worth—as opposed to an estimate.
 
-### Baseline
-What customers are doing without the thing we’re currently building.
+* **Baseline:** What customers are doing without the thing we’re currently building.
 
 ### Bet
 The decision to commit a team to a project for one cycle with no interruptions and an expectation to finish.
