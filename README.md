@@ -12,7 +12,7 @@ English | <a href="/schweizerdeutsch/README.md">Schweizerdeutsch</a>
           <img src="https://github.com/grapin/handbook/blob/master/png/grapin.png" width="45%" style="max-width:100%;">
         </a>
         <h1>
-          Employee’s Handbook
+          Employee Handbook
         </h1>
         <a href="https://boring-secretary.surge.sh">Visit our web site</a>
       </td>
