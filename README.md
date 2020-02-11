@@ -22,7 +22,7 @@ English | <a href="/schweizerdeutsch/README.md">Schweizerdeutsch</a>
 
 With this simple handbook we pretend to clarify not only to our employees—but also partners and investors—who we are as a company (what’s our culture, process, and history), what do we stand for?, and how should we work.
 
-Most of our practices are highly biased by [Basecamp](https://basecamp.com)—the tool we use for project management and company communications—, and the work methodology they enforce with it (which is called Shape Up). You’ll find more in the section [How We Work](how-we-work.md). 
+Most of our practices are highly biased by Basecamp—the tool we use for project management and company communications—, and the work methodology they enforce with it (which is called Shape Up). You’ll find more in the section [How We Work](how-we-work.md). 
 
 If you are reading this *employee’s handbook* you have probably started working or collaborating with us: thanks for that!
 
