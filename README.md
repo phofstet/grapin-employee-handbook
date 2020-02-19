@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
 <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
 <p align="right">
-English | <a href="/schweizerdeutsch/README.md">Schweizerdeutsch</a>
+English | <a href="https://github.com/grapin/grapin-cloud-handbook">grapin-cloud-handbook</a>
 </p>
 
 <table width="100%">
@@ -9,7 +9,7 @@ English | <a href="/schweizerdeutsch/README.md">Schweizerdeutsch</a>
     <tr width="100%">
       <td align="center">
         <a>
-          <img src="https://github.com/grapin/handbook/blob/master/png/grapin.png" width="45%" style="max-width:100%;">
+          <img src="https://github.com/grapin/grapin-employee-handbook/blob/master/png/grapin.png" width="45%" style="max-width:100%;">
         </a>
         <h1>
           Employee Handbook
