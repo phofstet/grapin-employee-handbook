@@ -27,6 +27,12 @@ Use your discretion to take time off to make up for the additional hours you put
 1. Don't accumulate more than 25 days of holidays approved,
 2. Try to keep *Days to Compensate* equal to zero (see both on the *Workers Report* tab of the tool).
 
+You cannot directly book your *holidays*, but you can place compensation days by yourself:
+
+![Compensation](https://github.com/grapin/grapin-employee-handbook/blob/master/png/pm-tool-compensation.png)
+
+*Compensation*
+
 For any concern about the compensation method, please get in touch with Hans Jörg.
 
 # Absences
