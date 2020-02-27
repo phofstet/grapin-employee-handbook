@@ -1,5 +1,5 @@
 <p align="right">
-<a href="README.md">Home</a> | <a href="projects.md">Back</a> | <a href="who-does-what.md">Next</a>
+<a href="README.md">Home</a> | <a href="projects.md">Back</a> | <a href="what-we-stand-for.md">Next</a>
 </p>
 
 # Tools
