@@ -33,4 +33,5 @@ If you are reading this *employee’s handbook* you have probably started workin
 * [Projects](projects.md)
 * [Strategy](strategy.md)
 * [Tools](tools.md)
+* [What We Stand For](what-we-stand-for.md)
 * [Who Does What?](who-does-what.md)

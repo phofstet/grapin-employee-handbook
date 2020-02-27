@@ -1,5 +1,5 @@
 <p align="right">
-<a href="README.md">Home</a> | <a href="tools.md">Back</a>
+<a href="README.md">Home</a> | <a href="what-we-stand-for.md">Back</a>
 </p>
 
 # Who Does What?
