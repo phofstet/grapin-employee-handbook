@@ -4,11 +4,6 @@
 
 # Strategy
 
-
-
-## Vision
-Please follow this [private link](https://storage.grapin.ch/index.php/f/22503).
-
 ## Business Goals
 Please follow this [private link](https://storage.grapin.ch/index.php/f/225042).
 
