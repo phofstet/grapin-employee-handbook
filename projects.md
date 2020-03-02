@@ -4,26 +4,7 @@
 
 # Projects
 
-## GRAPIN Cloud
+With the [GRAPIN Cloud Project](https://github.com/grapin/grapin-cloud-handbook), GRAPIN aims to build a system for high-performance computing (HPC) in the cloud. Both the project and the platform define not only GRAPIN’s vision and mission but also the rest of our portfolio.
 
-Coming soon!
-
-![GRAPIN Cloud Organizational Chart](/png/grapin-cloud-organizational-chart.png)
-
-*GRAPIN Cloud Organizational Chart*
-
-### IaaS: a Partnership with Mirantis
-
-Coming soon!
-
-![GRAPIN/Mirantis Organizational Chart](/png/mirantis-organizational-chart.png)
-
-*GRAPIN/Mirantis Organizational Chart*
-
-### FaaS: a Partnership with IBM
-
-Coming soon!
-
-![GRAPIN/IBM Organizational Chart](/png/ibm-organizational-chart.png)
-
-*GRAPIN/IBM Organizational Chart*
+* [GRAPIN Cloud Project](https://github.com/grapin/grapin-cloud-handbook)
+* [FPGA Design Platform](https://github.com/grapin/fpga-design-platform)
