@@ -27,6 +27,7 @@ Most of our practices are highly biased by Basecamp—the tool we use for projec
 If you are reading this *employee’s handbook* you have probably started working or collaborating with us: thanks for that!
 
 ## Sections
+* [Documentation](documentation.md)
 * [Expenses](expenses.md)
 * [Holidays and Absences](holidays-and-absences.md)
 * [How We Work](how-we-work.md)
