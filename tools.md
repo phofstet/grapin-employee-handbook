@@ -6,7 +6,7 @@
 At GRAPIN we use the following tools to operate the company:
 
 * Project Management: [Basecamp](#basecamp) (includes instant messaging),
-* File Sharing and General Documentation: [Nextcloud](#nextcloud) and Office 365,
+* File Sharing and Overall Record: [Nextcloud](#nextcloud) and Office 365,
 * Technical documentation: Github and [Overleaf](https://www.overleaf.com/),
 * Time-tracking: *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped to Basecamp—, and
 * Code Management: github.
