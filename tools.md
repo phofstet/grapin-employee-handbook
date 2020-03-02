@@ -6,7 +6,8 @@
 At GRAPIN we use the following tools to operate the company:
 
 * Project Management: [Basecamp](#basecamp) (includes instant messaging),
-* Documentation and File Sharing: [Nextcloud](#nextcloud),
+* File Sharing and General Documentation: [Nextcloud](#nextcloud) and Office 365,
+* Technical documentation: Github and [Overleaf](https://www.overleaf.com/),
 * Time-tracking: *GRAPIN’s Time Tracking Tool*—which also helps to plan tasks mapped to Basecamp—, and
 * Code Management: github.
 
@@ -84,7 +85,15 @@ In order to install Tracked, please do the following:
 
 Besides of the Kanban board, Tracked adds a valuable feature to us: task-labels. With this labels we are able to assign tasks from different lists to a cycles in order to implement Shape Up in our projects.
 
-## Nextcloud
+## Nextcloud and Office 365
+
+*Coming soon!*
+
+## Github
+
+*Coming soon!*
+
+## Overleaf
 
 *Coming soon!*
 
