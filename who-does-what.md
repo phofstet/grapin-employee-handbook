@@ -54,7 +54,7 @@ This is GRAPIN’s organizational chart:
 
 * Reports to: -
 * Backup: Sonja
-* GRAPIN Cloud Project Role: Marketing Leader
+* GRAPIN Cloud Project Role: Marketing
 * Other Projects: - 
 
 ## Kristiaan Hilger (KH)
