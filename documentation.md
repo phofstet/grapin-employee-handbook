@@ -13,7 +13,7 @@ Besides of this public handbook, we maintain the following two other repositorie
 
 The first one is a public resource where we explain the most relevant topics for appropriate usage of our GRAPIN Cloud infrastructure. The second one is a private share-point for an internal knowledge base and critical documentation—we mostly use the Github’s wiki for that. 
 
-![GRAPIN Handbooks and Wiki]https://storage.grapin.ch/s/ZdfTncW5Y5YSZ5z/preview)
+![GRAPIN Handbooks and Wiki](https://storage.grapin.ch/s/ZdfTncW5Y5YSZ5z/preview)
 
 *GRAPIN Handbooks and Wiki*
 
