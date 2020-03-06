@@ -15,6 +15,8 @@ The first one is a public resource where we explain the most relevant topics for
 
 ![GRAPIN Handbooks and Wiki](https://storage.grapin.ch/s/Bj9apcB3J2AJW7C/preview)
 
+*GRAPIN Handbooks and Wiki*
+
 ## Technical Documentation
  
  All the technical documentation is under version control on Github. Every repository has a `/docs` folder where we place all the markdown documents that explain the technical principles—and the code itself—of our solution. We believe the documentation is as relevant as the code.
