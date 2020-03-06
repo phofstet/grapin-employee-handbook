@@ -25,7 +25,7 @@ The first one is a public resource where we explain the most relevant topics for
 
  # Summary
 
- Please follow the following rules:
+ Please follow this rules for your documentation activities:
 
  * For file sharing and overall record, please use Basecamp’s *Docs & Files* (and the *Message Board*), Nextcloud, and Office 365 (in this order). Using Office 365 integration on Basecamp is especially convenient for collaboration purposes. Please take into consideration the use of OneNote as your technical diary tool. 
 
