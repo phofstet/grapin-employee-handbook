@@ -6,7 +6,7 @@
 
 For file sharing and overall record, we use Nextcloud and Office 365. Office 365 integrates on Basecamp, and we use it for generating documents in collaboration with colleagues inside and outside of GRAPIN. For [Technical Documentation](#technical-dcoumentation), please refer to the section below. 
 
-Besides of this public handbook, we maintain the following two other repositories on Github:
+Besides of this public handbook, we maintain the following two other *non source-code-hosting* repositories on Github:
 
 1. [GRAPIN Cloud Handbook](https://github.com/grapin/grapin-cloud-handbook), and
 2. GRAPIN Cloud Wiki.
@@ -19,7 +19,7 @@ The first one is a public resource where we explain the most relevant topics for
 
 ## Technical Documentation
  
- All the technical documentation is under version control on Github. Every repository has a `/docs` folder where we place all the markdown documents that explain the technical principles—and the code itself—of our solution. We believe the documentation is as relevant as the code.
+ All the technical documentation is under version control on Github. Every *source-code-hosting* repository has a `/docs` folder where we place all the markdown documents that explain the technical principles—and the code itself—of our solution. We believe the documentation is as relevant as the code.
 
  This way, with [Overleaf](www.overleaf.com), we can [generate LaTeX documents](https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents) quickly from the markdown files checked on each repository.
 
