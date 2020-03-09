@@ -32,7 +32,6 @@ If you are reading this *employee’s handbook* you have probably started workin
 * [Holidays and Absences](holidays-and-absences.md)
 * [How We Work](how-we-work.md)
 * [Projects](projects.md)
-* [Strategy](strategy.md)
 * [Tools](tools.md)
 * [What We Stand For](what-we-stand-for.md)
 * [Who Does What?](who-does-what.md)
