@@ -22,10 +22,10 @@ There are occasions where teams or individuals need to work off-hours, but this 
 
 Our *GRAPIN’s Time Tracking Tool* will help you to track your hours and identify when and why you have worked more than normal. 
 
-Use your discretion to take time off to make up for the additional hours you put in during the week. Although *GRAPIN’s Time Tracking Tool* automatically _accrues_ your extra time the very first day of the month, it is your responsability to:
+Use your discretion to take time off to make up for the additional hours you put in during the week. It is your responsability to:
 
-1. Don't accumulate more than 25 days of holidays approved,
-2. Try to keep *Days to Compensate* equal to zero (see both on the *Workers Report* tab of the tool).
+1. Don't plan for more than 25 days of holidays per year,
+2. Keep *Days to Compensate* equal to zero (see both on the *Workers Report* tab of the tool).
 
 You cannot directly book your *holidays*, but you can place compensation days by yourself. In any case, you need to inform the person you report to about that.
 
