@@ -1,5 +1,5 @@
 <p align="right">
-<a href="README.md">Home</a> | <a href="documentation.md">Back</a> | <a href="holidays-and-absences.md">Next</a>
+Home | <a href="README.md">Back</a>
 </p>
 
 # Expenses
