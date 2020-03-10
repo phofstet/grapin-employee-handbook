@@ -24,8 +24,10 @@ Our *GRAPIN’s Time Tracking Tool* will help you to track your hours and identi
 
 Use your discretion to take time off to make up for the additional hours you put in during the week. It is your responsability to:
 
-1. Don't plan for more than 25 days of holidays per year,
-2. Keep *Days to Compensate* equal to zero (see both on the *Workers Report* tab of the tool).
+1. Don't plan for more than 25 days of holidays per year, and
+2. Keep *Days to Compensate* equal to zero 
+
+(see both on the *Workers Report* tab of the tool).
 
 You cannot directly book your *holidays*, but you can place compensation days by yourself. In any case, you need to inform the person you report to about that.
 
