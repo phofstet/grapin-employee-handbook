@@ -6,7 +6,7 @@
 
 GRAPIN’s employees have 25 days of holidays per year.
 
-You should communicate any holiday period by filling out [this form (private link)](https://storage.grapin.ch/s/YWLFibdKQkeeJ6W), print it out, and give it to the person you report to (see the table in the [Organizational chart](organizational-chart.md) section). 
+You should communicate any holiday period by filling out [this form (private link)](https://storage.grapin.ch/index.php/f/222254), print it out, and give it to the person you report to (see the [Who Does What](who-does-what.md) section).
 
 Holidays will be officially aproved only after the person you report to signs and sends you back a copy of the form.
 
