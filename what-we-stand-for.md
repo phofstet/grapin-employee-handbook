@@ -4,6 +4,10 @@
 
 # What We Stand For
 
+Digitalization and big data are pushing the existing inhouse infrastructure as well as high-performance computing technologies to its limits. An increasing amount of both private and business activities are handled digitally, requiring secure but comfortable and from everywhere accessible enhanced computing performance and data storage. Nevertheless, many companies, as well as private clients, are still managing their data and IT infrastructure in a conservative way. The reasons for this are various. Focusing on the customer, they might fear losing flexibility as well as control over their data and systems and being faced with huge expenses. Suppliers, on the other hand, are not able to offer scalable and secure operable Data Center and high-performance computing solutions.  
+
+Today’s supercomputers are mostly designed for large institutions and are not accessible to medium and small institutions and individuals such as students, startups, IT enterprises, or R&D professionals. By developing further existing state-of-the-art FPGAs—and offering them in a disaggregated way in our modern hyper-scale data centers—GRAPIN aims to grant access to high-performance computing services to a broader range of people in an efficient, flexible, and scalable way. 
+
 ## Vision
 
 Our Vision is to be globally recognized as pioneers and leading experts in high-performance computing, creating value by providing the world’s most sophisticated hardware-acceleration solutions to solve our client’s computing challenges.
