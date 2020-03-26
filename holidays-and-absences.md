@@ -6,14 +6,14 @@ Home | <a href="README.md">Back</a>
 
 GRAPIN’s employees have 25 days of holidays per year.
 
-You should communicate any holiday period by filling out [this form (private link)](https://storage.grapin.ch/index.php/f/222254), print it out, and give it to the person you report to (see the [Who Does What](who-does-what.md) section).
+You should communicate any holiday period by filling out [this form (private link)](https://storage.grapin.ch/index.php/f/234281), print it out, and give it to the person you report to (see the [Who Does What](who-does-what.md) section).
 
 Holidays will be officially aproved only after the person you report to signs and sends you back a copy of the form.
 
 After that, the signed original will be delivered to Sonja, who will introduce the dates into the *GRAPIN’s Time Tracking Tool*.
 
 ### Project Planning Support
-Longer holiday periods (i.e. Christmas or summer holidays) should be communicated before the end of January. This way you'll support the good usage of *GRAPIN’s Time Tracking Tool*, thus a better oversight of your availability and project planning.
+Longer holiday periods (i.e. Christmas or summer holidays) should be communicated before the end of January. This way you'll support the good usage of the tools for project planning.
 
 ### Overtime
 We limit ourselves to a 42-hour work week. Keeping our hours at work limited forces us to prioritize the work that really matters.
