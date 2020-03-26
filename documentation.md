@@ -32,3 +32,5 @@ The first one is a public resource where we explain the most relevant topics for
 * As a GRAPIN employee, make proper use of the GRAPIN Cloud Wiki as a knowledge base share-point and wiki.
 
 * For technical documentation, use the proper Github repositories together with Overleaf.
+
+* For any concerns about the documentation process, please contact Javi.
