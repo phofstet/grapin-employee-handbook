@@ -4,7 +4,7 @@ Home | <a href="README.md">Back</a>
 
 # Holidays
 
-GRAPIN’s employees have 25 days of holidays per year.
+GRAPIN’s employees have a certain amount of holidays per year depending on their contract.
 
 You should communicate any holiday period by filling out [this form (private link)](https://storage.grapin.ch/index.php/f/234281), print it out, and give it to the person you report to (see the [Who Does What](who-does-what.md) section).
 
