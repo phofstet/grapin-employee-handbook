@@ -9,7 +9,7 @@ This is GRAPIN’s organizational chart:
 ![Organizational Chart](/png/grapin-organizational-chart.png)
 *Organizational Chart*
 
-## Attila Kovacs (AK)
+## ~~Attila Kovacs (AK)~~ _REPLACE WITH A NEW HEAD OF DC TO BE ANNONCED_
 **Head of Datacenter**
 
 * Reports to: Hans Jörg 
